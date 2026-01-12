@@ -1,3 +1,7 @@
 Hello Git
 Feature work on file
+<<<<<<< HEAD
 Main branch change
+=======
+Featue branch change
+>>>>>>> feature-branch
